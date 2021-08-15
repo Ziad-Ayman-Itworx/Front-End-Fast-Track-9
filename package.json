@@ -12,6 +12,7 @@
     "gulp": "^4.0.2"
   },
   "dependencies": {
-    "bootstrap": "^5.1.0"
+    "bootstrap": "^5.1.0",
+    "mustache": "^4.2.0"
   }
 }
